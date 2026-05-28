@@ -1,5 +1,5 @@
 # Arduino_Swimmer
-Simple project build on Arduino Nano with allows you to track distance, speed, laps during pool trainings. It sends data via bluettoth to phone.
+A simple project built on Arduino Nano allows you to track distance, speed, and laps during pool training. It sends data via Bluetooth terminal.
 
 Used libraries:
 OneButton
